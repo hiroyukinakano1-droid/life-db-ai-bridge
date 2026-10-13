@@ -6,6 +6,7 @@
 // ここに、あなただけが知っている合言葉（トークン）を設定してください。
 // 推測されにくい文字列にしてください（例："hiro-lifedb-2026-xyz789"など）。
 const ACCESS_TOKEN = "ここに任意の合言葉を設定";
+const SPREADSHEET_ID = "ここにスプレッドシートIDを設定";
 
 function doGet(e) {
   try {
